@@ -10,6 +10,11 @@ ul {
     padding: 0px;
 }
 
+li{
+    vertical-align: middle;
+    display: inline;
+}
+
 .menu2 {
     background-color: black;
     align-items: center;
@@ -31,6 +36,7 @@ button{
     border: medium;
     margin: 0px;
     background: none;
+    min-height: 100%
 }
 
 a{
@@ -44,16 +50,14 @@ a{
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
-
+    vertical-align: middle;
 }
 
 .logo{
     align-items: baseline;
 }
 
-.test{
-    
-}
+
 
 h1{
     text-align: center;
@@ -68,13 +72,6 @@ h1{
 
 }
 
-.p2{
-
-}
-
-.p3{
-
-}
 
 .pic{
     position:center;
@@ -91,4 +88,16 @@ h1{
 h1{
     text-decoration: underline;
     color: blueviolet;  
+}
+
+.photolien{
+    border:1px;
+    border-color: purple;
+}
+
+.polnareff{
+    margin-top: 5%;
+    width: 70%;
+
+    background-color: pink;
 }
