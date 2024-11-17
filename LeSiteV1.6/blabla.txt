@@ -1,5 +1,1 @@
-        <div class="logo">
-            <a href="Page1.html">
-                <img src="Image/jojologo.png" alt="Logo Jojo's" width="100">
-            </a>
-        </div>
+
